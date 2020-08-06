@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Cheese Cake",
+    "img": ["Cheese Cake.jpg", "Cheese cake2.jpg"],
+    "tags": [
+      "frutos rojos",
+      "frambuesa",
+      "queso crema"
+    ]
+  },
+  {
+    "name": "Choco almendras",
+    "img": ["Chocolate y Almendras.jpg", "Chocolate y Almendras.gif"],
+    "tags": [
+      "chocolate",
+      "almendras"
+    ]
+  },
+  {
+    "name": "Key Lime Pie",
+    "img": ["key lime pie.jpg", "key lime pie2.jpg"],
+    "tags": [
+      "limon",
+      "crema"
+    ]
+  },
+  {
+    "name": "Chocolatosa",
+    "img": ["chocolatosa.jpg"],
+    "tags": [
+      "chocolate",
+      "más chocolate"
+    ]
+  },
+  {
+    "name": "Merengue",
+    "img": ["merengue.JPG"],
+    "tags": [
+      "merengue",
+      "dulce de leche"
+    ]
+  }
+]
